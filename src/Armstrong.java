@@ -90,7 +90,6 @@ public class Armstrong {
             obj3.ReverseNumber(num4);
 
 
-
             System.out.println(" ");
             System.out.println("do you want continue");
             int omya= br.read();
